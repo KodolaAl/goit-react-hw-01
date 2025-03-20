@@ -8,6 +8,7 @@
   justify-content: space-between;
   padding-top: 20px;
   overflow: hidden;
+  margin: 0 auto;
 }
 .user {
   display: flex;
